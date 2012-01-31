@@ -1,0 +1,23 @@
+# lein-iclojure
+
+IClojure plugin for Leiningen.
+
+## Installation
+
+```
+lein plugin install lein-iclojure "1.0.0"
+```
+
+### Usage
+
+The IClojure plugin can be used either standalone or within a specific project
+
+```
+lein irepl
+```
+
+## License
+
+Copyright (C) 2012 Cosmin Stejerean
+
+Distributed under the Eclipse Public License, the same as Clojure.
