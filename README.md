@@ -5,7 +5,7 @@ IClojure plugin for Leiningen.
 ## Installation
 
 ```
-lein plugin install lein-iclojure "1.0.0"
+lein plugin install lein-iclojure "1.0.0-SNAPSHOT"
 ```
 
 ## Usage
