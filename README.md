@@ -4,8 +4,18 @@ IClojure plugin for Leiningen.
 
 ## Installation
 
+### Leiningen 1.x
+
 ```
 lein plugin install lein-iclojure 1.0
+```
+
+### Leiningen 2
+
+Add `[lein-iclojure "1.1"]` to the `:user` profile in `~/.lein/profiles.clj`. Here is an example
+
+```clojure
+{:user {:plugins [ [lein-iclojure "1.1"] ]}}
 ```
 
 ## Usage
