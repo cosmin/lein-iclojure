@@ -7,7 +7,7 @@ IClojure plugin for Leiningen.
 ### Leiningen 1.x
 
 ```
-lein plugin install lein-iclojure 1.0
+lein plugin install lein-iclojure 1.1
 ```
 
 ### Leiningen 2
