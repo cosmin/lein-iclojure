@@ -7,15 +7,15 @@ IClojure plugin for Leiningen.
 ### Leiningen 1.x
 
 ```
-lein plugin install lein-iclojure 1.1
+lein plugin install lein-iclojure 1.2
 ```
 
 ### Leiningen 2
 
-Add `[lein-iclojure "1.1"]` to the `:user` profile in `~/.lein/profiles.clj`. Here is an example
+Add `[lein-iclojure "1.2"]` to the `:user` profile in `~/.lein/profiles.clj`. Here is an example
 
 ```clojure
-{:user {:plugins [ [lein-iclojure "1.1"] ]}}
+{:user {:plugins [ [lein-iclojure "1.2" ]}}
 ```
 
 ## Usage
@@ -50,6 +50,6 @@ that task after Leiningen's JVM exit.
 
 ## License
 
-Copyright (C) 2012 Cosmin Stejerean
+Copyright (C) 2013 Cosmin Stejerean
 
 Distributed under the Eclipse Public License, the same as Clojure.
